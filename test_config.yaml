@@ -1,0 +1,8 @@
+imports:
+- path: openvpn-access-server.jinja
+
+resources:
+- name: openvpn-access-server
+  type: openvpn-access-server.jinja
+  properties:
+    zone: us-central1-f

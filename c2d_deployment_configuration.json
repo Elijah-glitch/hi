@@ -1,0 +1,7 @@
+{
+  "defaultDeploymentType": "SINGLE_VM",
+  "imageName": "aspub285",
+  "projectId": "openvpn-access-server-200800",
+  "templateName": "nonexistent_template",
+  "useSolutionPackage": true
+}
